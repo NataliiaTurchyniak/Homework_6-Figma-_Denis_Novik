@@ -1,0 +1,180 @@
+html,
+body {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+.nav {
+    padding: 28px 0;
+    border-bottom: 1px solid #828282;
+}
+
+
+ul {
+    margin: 0;
+    padding-left: 0;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color:#828282 ;
+}
+
+a:hover {
+    color: #070707
+}
+
+.title {
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 12px;
+    margin-bottom: 50px;
+}
+
+.profile-img {
+    width: 100%;
+    height: 470px;
+}
+
+.about-me {
+    height: 500px;
+    background-color: #F6F6F6;
+    padding-top: 100px;
+}
+
+.about-me-title {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.about-me-description {
+    text-align: center;
+}
+
+.application {
+    float: left;
+    width: 25%;
+    text-align: center;
+ }
+
+.application-img {
+   width: 80px;
+   height: 80px; 
+}
+
+.application-img-figma {
+    width: 53px;
+    height: 80px;
+}
+
+.star {
+    width: 26px;
+    height: 26px;
+}
+
+.skills {
+    height: 464px;
+    padding-top: 100px;
+}
+
+.skills-name {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    opacity: 80%;
+}
+
+.skills-description {
+     font-size: 18px ;
+     text-align: center;
+     margin-bottom: 50px;
+}
+
+.application-description {
+    font-size: 14px;
+    color: #828282;
+    margin-bottom: 60px;
+}
+
+.portfolio {
+    background: #F6F6F6;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.portfolio-title {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contacts-title {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contacts-description {
+     font-size: 18px;
+     text-align: center;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.button {
+    width: 180px;
+    height: 44px;
+    border-radius: 22px;
+    background-color: #070707;
+    color: #F6F6F6;
+    font-size: 18px;
+}
+
+li {
+    display: inline-block;
+}
+
+.footer-description {
+    font-size: 14px;
+    text-align: center;
+    color: #828282;
+}
+
+.store-description {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+.nav-footer {
+    padding: 28px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
